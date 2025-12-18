@@ -21,4 +21,4 @@ else:
     print('Неизвестная операция')
     exit()
 
-print("Результат:", result)
+print("Ответ:", result)
